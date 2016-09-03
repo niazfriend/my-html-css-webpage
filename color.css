@@ -1,0 +1,267 @@
+body{
+	background-color:dark-blue;
+	color:white;
+	line-height:1.5;
+
+	
+}
+img.logo{
+    position:fixed;
+    border-radius:100%;	
+	margin-top:-120;
+	
+	
+}
+a{
+	text-decoration:none;
+}
+a:hover{
+	font-size:20px;
+	color:white;
+	text-decoration:underline;
+}
+.nav{
+	float:right;
+	position:fixed;
+	margin-top:-60;
+	margin-left:-10;
+	background-color:green;
+	width:100%;
+	word-spacing:1.3em;
+	padding-left:-20;}
+
+div#container{
+	margin-top:120;
+	background-position:fixed;
+		background-color:dark-blue;
+	color:white;
+	line-height:1.5;
+	font-family:lobster;
+}
+div.a{
+	background-image:url("apple.gif");
+    font-weight:bold;
+	font-size:24px;
+	overflow:scroll;
+	height:100;
+    padding:10px 10px 10xp 10px;
+	}
+
+
+div.b{
+	background-image:url("ball.gif");
+    font-weight:bold;
+	font-size:24px;
+	overflow:auto;
+	height:250;
+	padding:10% 10% 10% 10%;
+	color:black;
+}
+div.c{
+	padding:10% 10% 10% 10%;
+    font-weight:bold;
+	font-size:24px;
+	background-image:url("cat.gif");
+	overflow:auto;
+	height:250;
+}
+
+div.d{
+	padding:10% 10% 10% 10%;
+    font-weight:bold;
+	font-size:24px;
+	background-image:url("dog.gif");
+    overflow:auto;
+	height:250;
+	}
+
+div.e{
+    padding:10% 10% 10% 10%;
+    font-weight:bold;
+	font-size:24px;
+	background-image:url("elephent.gif");
+    overflow:auto;
+	height:250;
+}
+
+div.f{
+	padding:10% 10% 10% 10%;
+    font-weight:bold;
+	font-size:24px;
+	background-image:url("forest.gif");
+	  overflow:auto;
+	height:250;
+}
+
+div.g{
+    padding:10% 10% 10% 10%;
+    font-weight:bold;
+	font-size:24px;
+	background-image:url("grapes.gif");
+	  overflow:auto;
+	height:250;
+}
+
+div.h{
+	padding:10% 10% 10% 10%;
+    font-weight:bold;
+	font-size:24px;
+	background-image:url("horse.gif");
+	overflow:auto;
+	height:250;
+}
+div.i{
+	padding:10% 10% 10% 10%;
+    font-weight:bold;
+	font-size:24px;
+	background-image:url("ink.gif");
+	overflow:auto;
+	height:250;
+}
+
+div.j{
+	padding:10% 10% 10% 10%;
+    font-weight:bold;
+	font-size:24px;
+	background-image:url("jugs.gif");
+	overflow:auto;
+	height:250;
+	color:black;
+}
+div.k{
+	padding:10% 10% 10% 10%;
+    font-weight:bold;
+	font-size:24px;
+	background-image:url("kite.gif");
+	overflow:auto;
+	height:250;
+	
+}
+div.l{
+	padding:10% 10% 10% 10%;
+    font-weight:bold;
+	font-size:24px;
+	background-image:url("lemon.gif");
+    overflow:auto;
+	height:250;
+	
+	}
+div.m{
+	padding:10% 10% 10% 10%;
+    font-weight:bold;
+	font-size:24px;
+	overflow:auto;
+	height:250;
+	background-image:url("mango.gif");
+}
+div.n{
+	padding:10% 10% 10% 10%;
+    font-weight:bold;
+	font-size:24px;
+	overflow:auto;
+	height:250;
+	background-image:url("nib.gif");
+}
+div.o{
+	padding:10% 10% 10% 10%;
+    font-weight:bold;
+	font-size:24px;
+	background-image:url("ox.gif");
+	overflow:auto;
+	height:250;
+	
+}
+div.p{
+	padding:10% 10% 10% 10%;
+    font-weight:bold;
+	font-size:24px;
+	background-image:url("parrot.gif");
+	overflow:auto;
+	height:250;
+	
+}
+div.q{
+	padding:10% 10% 10% 10%;
+    font-weight:bold;
+	font-size:24px;
+	background-image:url("queen.gif");
+	overflow:auto;
+	height:250;
+	
+}
+div.r{
+	padding:10% 10% 10% 10%;
+    font-weight:bold;
+	font-size:24px;
+	background-image:("river.gif");
+	overflow:auto;
+	height:250;
+	
+}
+div.s{
+	padding:10% 10% 10% 10%;
+    font-weight:bold;
+	font-size:24px;
+	background-color:black;
+}
+div.t{
+	padding:10% 10% 10% 10%;
+    font-weight:bold;
+	font-size:24px;
+	overflow:auto;
+	height:250;
+	background-image:url("table.gif")
+}
+div.u{
+	padding:10% 10% 10% 10%;
+    font-weight:bold;
+	font-size:24px;
+	overflow:auto;
+	height:250;
+	background-image:url("umbrella.gif");
+}
+div.v{
+	padding:10% 10% 10% 10%;
+    font-weight:bold;
+	font-size:24px;
+	overflow:auto;
+	height:250;
+	background-image;url("");
+}
+div.w{
+	padding:10% 10% 10% 10%;
+    font-weight:bold;
+	font-size:24px;
+	background-color:black;
+}
+div.x{
+	padding:10% 10% 10% 10%;
+    font-weight:bold;
+	font-size:24px;
+	background-color:black;
+}
+div.y{
+	padding:10% 10% 10% 10%;
+    font-weight:bold;
+	font-size:24px;
+	background-color:black;
+}
+div.z{
+	padding:10% 10% 10% 10%;
+    font-weight:bold;
+	font-size:24px;
+	background-color:black;
+}
+a{
+	color:black;
+	font-size:20px;
+	
+}
+ul li{
+	display:inline-block;
+}
+.footer{
+	text-align :center;
+	color:black;
+	font-size:20px;
+}
